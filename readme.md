@@ -5,4 +5,5 @@ This is a study of using machine learning for bank marketing campaign. This work
 In this works we have explored the usage of boosting algorithm to predict the call success mechanism to help business targeting customers for better conversions.
 
 Reference for the research and dataset
+
 S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014
